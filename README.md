@@ -54,3 +54,6 @@ It allows users to:
 2. streamlit run app.py
 
 ## 🌍 Live Demo
+
+🔗 Try the AI-Powered Multi-Language Translator live:- https://multilanguagetranslator-gqtcybowrgzqtwtlkdvtps.streamlit.app
+
