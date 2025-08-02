@@ -48,3 +48,9 @@ It allows users to:
    - Translates the recognized text using **GoogleTranslator**.  
    - Plays the translated text using **gTTS**.
 4. **Output** – Both text and audio outputs are displayed for user convenience.
+
+##  How It Runs
+1. pip install -r requirements.txt
+2. streamlit run app.py
+
+
