@@ -34,3 +34,17 @@ It allows users to:
 ---
 
 ## 📂 Project Structure
+
+## ⚙️ How It Works
+1. **Select Languages** – Choose a **source language** and a **target language** from dropdown menus.
+2. **Text Translation** –  
+   - Enter your text into the text area.  
+   - Click **Translate Text** to get instant translation.  
+   - Listen to the translated result via generated audio.
+3. **Speech Translation** –  
+   - Click **Speak and Translate** to start recording.  
+   - The app captures your speech via microphone.  
+   - Converts speech to text using **Google Speech Recognition API**.  
+   - Translates the recognized text using **GoogleTranslator**.  
+   - Plays the translated text using **gTTS**.
+4. **Output** – Both text and audio outputs are displayed for user convenience.
